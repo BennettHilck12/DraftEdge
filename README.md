@@ -1,1 +1,1 @@
-https://colab.research.google.com/github/BennettHilck12/DraftEdge/blob/main/DraftEdge.ipynb
+https://drive.google.com/drive/folders/1_MSZKud6V1rpgitLMudxCQd93v7nO1tb
